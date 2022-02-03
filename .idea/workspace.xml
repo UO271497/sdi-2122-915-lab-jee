@@ -9,8 +9,10 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="2595b861-bb4f-434c-8605-65d4e372ba4b" name="Changes" comment="SDI-2122-915-1.1-Los Servlets son multihilo.">
+    <list default="true" id="2595b861-bb4f-434c-8605-65d4e372ba4b" name="Changes" comment="“SDI-2122-915-1.2 Manejo de sesiones.">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/com/uniovi/sdi/ServletShoppingCart.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/uniovi/sdi/ServletShoppingCart.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/webapp/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/webapp/indexhtml.html" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -21,6 +23,8 @@
     <option name="RECENT_TEMPLATES">
       <list>
         <option value="HTML File" />
+        <option value="Jspx File" />
+        <option value="Jsp File" />
       </list>
     </option>
   </component>
@@ -159,7 +163,7 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1643892626425</updated>
-      <workItem from="1643892627574" duration="2411000" />
+      <workItem from="1643892627574" duration="2782000" />
     </task>
     <task id="LOCAL-00001" summary="SDI-2122-915-1.0-Create servlet project.">
       <created>1643893193215</created>
@@ -182,7 +186,14 @@
       <option name="project" value="LOCAL" />
       <updated>1643894021957</updated>
     </task>
-    <option name="localTasksCounter" value="4" />
+    <task id="LOCAL-00004" summary="“SDI-2122-915-1.2 Manejo de sesiones.">
+      <created>1643895252766</created>
+      <option name="number" value="00004" />
+      <option name="presentableId" value="LOCAL-00004" />
+      <option name="project" value="LOCAL" />
+      <updated>1643895252766</updated>
+    </task>
+    <option name="localTasksCounter" value="5" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -203,6 +214,7 @@
     <MESSAGE value="SDI-2122-915-1.0-Create servlet project." />
     <MESSAGE value="Punto 4 funcional" />
     <MESSAGE value="SDI-2122-915-1.1-Los Servlets son multihilo." />
-    <option name="LAST_COMMIT_MESSAGE" value="SDI-2122-915-1.1-Los Servlets son multihilo." />
+    <MESSAGE value="“SDI-2122-915-1.2 Manejo de sesiones." />
+    <option name="LAST_COMMIT_MESSAGE" value="“SDI-2122-915-1.2 Manejo de sesiones." />
   </component>
 </project>
