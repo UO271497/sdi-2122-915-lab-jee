@@ -9,10 +9,14 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="2595b861-bb4f-434c-8605-65d4e372ba4b" name="Changes" comment="SDI-2122-915-1.6-JSP Beans, JavaBeans y ámbitos.">
+    <list default="true" id="2595b861-bb4f-434c-8605-65d4e372ba4b" name="Changes" comment="SDI-2122-915-1.7-Uso de tags JSTL Core.">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/com/uniovi/sdi/ServletShoppingCart.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/uniovi/sdi/ServletShoppingCart.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/src/main/webapp/admin.jsp" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/webapp/admin.jsp" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/webapp/index.jsp" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/webapp/index.jsp" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/com/uniovi/sdi/ServletShoppingCart.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/com/uniovi/sdi/ServletShoppingCart.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/sdi-2122-915-lab-jee-1.0-SNAPSHOT/WEB-INF/classes/com/uniovi/sdi/ServletShoppingCart.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/sdi-2122-915-lab-jee-1.0-SNAPSHOT/WEB-INF/classes/com/uniovi/sdi/ServletShoppingCart.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/sdi-2122-915-lab-jee-1.0-SNAPSHOT/admin.jsp" beforeDir="false" afterPath="$PROJECT_DIR$/target/sdi-2122-915-lab-jee-1.0-SNAPSHOT/admin.jsp" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/sdi-2122-915-lab-jee-1.0-SNAPSHOT/index.jsp" beforeDir="false" afterPath="$PROJECT_DIR$/target/sdi-2122-915-lab-jee-1.0-SNAPSHOT/index.jsp" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -24,8 +28,8 @@
       <list>
         <option value="HTML File" />
         <option value="Jspx File" />
-        <option value="Jsp File" />
         <option value="Class" />
+        <option value="Jsp File" />
       </list>
     </option>
   </component>
@@ -165,7 +169,7 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1643892626425</updated>
-      <workItem from="1643892627574" duration="7411000" />
+      <workItem from="1643892627574" duration="7760000" />
     </task>
     <task id="LOCAL-00001" summary="SDI-2122-915-1.0-Create servlet project.">
       <created>1643893193215</created>
@@ -216,7 +220,14 @@
       <option name="project" value="LOCAL" />
       <updated>1643905228294</updated>
     </task>
-    <option name="localTasksCounter" value="8" />
+    <task id="LOCAL-00008" summary="SDI-2122-915-1.7-Uso de tags JSTL Core.">
+      <created>1643905747509</created>
+      <option name="number" value="00008" />
+      <option name="presentableId" value="LOCAL-00008" />
+      <option name="project" value="LOCAL" />
+      <updated>1643905747509</updated>
+    </task>
+    <option name="localTasksCounter" value="9" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -242,6 +253,7 @@
     <MESSAGE value="“SDI-2122-915-1.4-Manejo de sesiones (2)." />
     <MESSAGE value="“SDI-2122-915-1.5-Contexto aplicación y listado dinámico." />
     <MESSAGE value="SDI-2122-915-1.6-JSP Beans, JavaBeans y ámbitos." />
-    <option name="LAST_COMMIT_MESSAGE" value="SDI-2122-915-1.6-JSP Beans, JavaBeans y ámbitos." />
+    <MESSAGE value="SDI-2122-915-1.7-Uso de tags JSTL Core." />
+    <option name="LAST_COMMIT_MESSAGE" value="SDI-2122-915-1.7-Uso de tags JSTL Core." />
   </component>
 </project>

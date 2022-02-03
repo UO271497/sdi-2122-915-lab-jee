@@ -25,7 +25,7 @@
     <jsp:setProperty name="productsService" property="newProduct" value="${product}"/>
     <c:redirect url="/index.jsp"/>
 </c:if>
-<
+
 <!-- Contenido -->
 <div class="container" id="main-container">
     <h2>Agregar producto a la tienda</h2>
