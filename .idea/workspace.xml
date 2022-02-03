@@ -10,52 +10,13 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="2595b861-bb4f-434c-8605-65d4e372ba4b" name="Changes" comment="“SDI-2122-915-1.5-Contexto aplicación y listado dinámico.">
-      <change afterPath="$PROJECT_DIR$/.idea/libraries/lib.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/com/uniovi/sdi/Product.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/com/uniovi/sdi/ProductsService.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/webapp/WEB-INF/lib/ant.jar" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/webapp/WEB-INF/lib/bloat-1.0.jar" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/webapp/WEB-INF/lib/db4o-8.0.249.16098-all-java5.jar" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/webapp/WEB-INF/lib/db4o-8.0.249.16098-bench.jar" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/webapp/WEB-INF/lib/db4o-8.0.249.16098-core-java5.jar" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/webapp/WEB-INF/lib/db4o-8.0.249.16098-cs-java5.jar" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/webapp/WEB-INF/lib/db4o-8.0.249.16098-cs.optional-java5.jar" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/webapp/WEB-INF/lib/db4o-8.0.249.16098-db4ounit-java5.jar" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/webapp/WEB-INF/lib/db4o-8.0.249.16098-instrumentation-java5.jar" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/webapp/WEB-INF/lib/db4o-8.0.249.16098-nqopt-java5.jar" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/webapp/WEB-INF/lib/db4o-8.0.249.16098-optional-java5.jar" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/webapp/WEB-INF/lib/db4o-8.0.249.16098-osgi-java5.jar" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/webapp/WEB-INF/lib/db4o-8.0.249.16098-osgi-test-java5.jar" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/webapp/WEB-INF/lib/db4o-8.0.249.16098-taj-java5.jar" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/webapp/WEB-INF/lib/db4o-8.0.249.16098-tools-java5.jar" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/webapp/WEB-INF/lib/jstl-1.2.jar" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/webapp/admin.jsp" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/webapp/login.jsp" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/target/classes/com/uniovi/sdi/Product.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/target/classes/com/uniovi/sdi/ProductsService.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/target/sdi-2122-915-lab-jee-1.0-SNAPSHOT/WEB-INF/classes/com/uniovi/sdi/Product.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/target/sdi-2122-915-lab-jee-1.0-SNAPSHOT/WEB-INF/classes/com/uniovi/sdi/ProductsService.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/target/sdi-2122-915-lab-jee-1.0-SNAPSHOT/WEB-INF/lib/ant.jar" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/target/sdi-2122-915-lab-jee-1.0-SNAPSHOT/WEB-INF/lib/bloat-1.0.jar" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/target/sdi-2122-915-lab-jee-1.0-SNAPSHOT/WEB-INF/lib/db4o-8.0.249.16098-all-java5.jar" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/target/sdi-2122-915-lab-jee-1.0-SNAPSHOT/WEB-INF/lib/db4o-8.0.249.16098-bench.jar" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/target/sdi-2122-915-lab-jee-1.0-SNAPSHOT/WEB-INF/lib/db4o-8.0.249.16098-core-java5.jar" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/target/sdi-2122-915-lab-jee-1.0-SNAPSHOT/WEB-INF/lib/db4o-8.0.249.16098-cs-java5.jar" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/target/sdi-2122-915-lab-jee-1.0-SNAPSHOT/WEB-INF/lib/db4o-8.0.249.16098-cs.optional-java5.jar" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/target/sdi-2122-915-lab-jee-1.0-SNAPSHOT/WEB-INF/lib/db4o-8.0.249.16098-db4ounit-java5.jar" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/target/sdi-2122-915-lab-jee-1.0-SNAPSHOT/WEB-INF/lib/db4o-8.0.249.16098-instrumentation-java5.jar" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/target/sdi-2122-915-lab-jee-1.0-SNAPSHOT/WEB-INF/lib/db4o-8.0.249.16098-nqopt-java5.jar" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/target/sdi-2122-915-lab-jee-1.0-SNAPSHOT/WEB-INF/lib/db4o-8.0.249.16098-optional-java5.jar" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/target/sdi-2122-915-lab-jee-1.0-SNAPSHOT/WEB-INF/lib/db4o-8.0.249.16098-osgi-java5.jar" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/target/sdi-2122-915-lab-jee-1.0-SNAPSHOT/WEB-INF/lib/db4o-8.0.249.16098-osgi-test-java5.jar" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/target/sdi-2122-915-lab-jee-1.0-SNAPSHOT/WEB-INF/lib/db4o-8.0.249.16098-taj-java5.jar" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/target/sdi-2122-915-lab-jee-1.0-SNAPSHOT/WEB-INF/lib/db4o-8.0.249.16098-tools-java5.jar" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/target/sdi-2122-915-lab-jee-1.0-SNAPSHOT/WEB-INF/lib/jstl-1.2.jar" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/target/sdi-2122-915-lab-jee-1.0-SNAPSHOT/admin.jsp" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/target/sdi-2122-915-lab-jee-1.0-SNAPSHOT/login.jsp" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/sdi-2122-915-lab-jee.iml" beforeDir="false" afterPath="$PROJECT_DIR$/sdi-2122-915-lab-jee.iml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/com/uniovi/sdi/Product.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/uniovi/sdi/Product.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/webapp/admin.jsp" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/webapp/admin.jsp" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/src/main/webapp/index.jsp" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/webapp/index.jsp" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/com/uniovi/sdi/Product.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/com/uniovi/sdi/Product.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/sdi-2122-915-lab-jee-1.0-SNAPSHOT/WEB-INF/classes/com/uniovi/sdi/Product.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/sdi-2122-915-lab-jee-1.0-SNAPSHOT/WEB-INF/classes/com/uniovi/sdi/Product.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/sdi-2122-915-lab-jee-1.0-SNAPSHOT/admin.jsp" beforeDir="false" afterPath="$PROJECT_DIR$/target/sdi-2122-915-lab-jee-1.0-SNAPSHOT/admin.jsp" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/target/sdi-2122-915-lab-jee-1.0-SNAPSHOT/index.jsp" beforeDir="false" afterPath="$PROJECT_DIR$/target/sdi-2122-915-lab-jee-1.0-SNAPSHOT/index.jsp" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -209,7 +170,7 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1643892626425</updated>
-      <workItem from="1643892627574" duration="6307000" />
+      <workItem from="1643892627574" duration="6819000" />
     </task>
     <task id="LOCAL-00001" summary="SDI-2122-915-1.0-Create servlet project.">
       <created>1643893193215</created>
@@ -246,7 +207,14 @@
       <option name="project" value="LOCAL" />
       <updated>1643895609516</updated>
     </task>
-    <option name="localTasksCounter" value="6" />
+    <task id="LOCAL-00006" summary="“SDI-2122-915-1.5-Contexto aplicación y listado dinámico.">
+      <created>1643904628284</created>
+      <option name="number" value="00006" />
+      <option name="presentableId" value="LOCAL-00006" />
+      <option name="project" value="LOCAL" />
+      <updated>1643904628284</updated>
+    </task>
+    <option name="localTasksCounter" value="7" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
